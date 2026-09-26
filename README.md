@@ -48,4 +48,4 @@ Rust + [`eframe`](https://github.com/emilk/egui) + [`image`](https://github.com/
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
