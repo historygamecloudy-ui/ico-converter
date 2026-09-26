@@ -4,9 +4,7 @@ Fast, simple Windows app that converts **PNG / JPG** images to multi-size **.ico
 
 Open the app, click one button, pick an image — the ICO file is saved next to it automatically.
 
-## Demo
-
-![Demo](docs/demo.gif)
+## Screenshot
 
 ![Screenshot](docs/screenshot.png)
 
